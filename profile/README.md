@@ -1,6 +1,6 @@
 # Welcome to HelloWorld
 
-![Welcome to HelloWorld](/images/welcome.jpg)
+![Welcome to HelloWorld](./images/welcome.jpg)
 
 HelloWorld PC is a software house established in Athens, Greece back in 2018 by [Mr. Marios Fakiolas](mailto:marios@helloworld.gr).
 
